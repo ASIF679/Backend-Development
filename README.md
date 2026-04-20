@@ -1,3 +1,4 @@
+This repo contains FASTAPI base Backend Project For learning purposes 
 A modular backend system built using FastAPI, covering authentication, blog APIs, caching, and reusable backend services.
 ## Features
 
